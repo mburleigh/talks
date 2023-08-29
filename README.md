@@ -7,5 +7,5 @@
 ## 2022
 ## 2023
 ### Beer City Code [Grand Rapids, MI | 8-4/5]
-[VS Code All the Things!!!](https://github.com/mburleigh/talks/tree/2023/beer-city-code/VS%20Code%20All%20the%20Things)
-[Notebooks in VS Code](https://github.com/mburleigh/talks/tree/2023/beer-city-code/Notebooks%20in%20VS%20Code)
+* [VS Code All the Things!!!](https://github.com/mburleigh/talks/tree/2023/beer-city-code/VS%20Code%20All%20the%20Things)
+* [Notebooks in VS Code](https://github.com/mburleigh/talks/tree/2023/beer-city-code/Notebooks%20in%20VS%20Code)
