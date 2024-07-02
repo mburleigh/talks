@@ -13,3 +13,9 @@
 - 
 - 
 ## 2024
+### Beer City Code [Grand Rapids, MI | 8-???]
+- 
+- 
+### TechBash
+- 
+- 
