@@ -6,12 +6,12 @@
 - [Notebooks in VS Code](https://github.com/mburleigh/talks/tree/2024/techbash/Notebooks%20in%20VS%20Code)
 - [VS Code All then Things!!!](https://github.com/mburleigh/talks/tree/2024/techbash/VS%20Code%20All%20the%20Things)
 ### [Beer City Code](https://www.beercitycode.com) [Grand Rapids, MI | 8-2/3]
-- Azure Without the Portal
+- [Azure Without the Portal](https://github.com/mburleigh/talks/tree/2024/beer-city-code/Azure%20Without%20the%20Portal)
 - [Notebooks in VS Code](https://github.com/mburleigh/talks/tree/2024/beer-city-code/Notebooks%20in%20VS%20Code)
 
 ## 2023
 ### [TechBash](https://techbash.com) [Kalahari Resorts at Pocono Manor, PA | 11/7-11]
-- Level Up Azure DevOps Pipelines with YAML
+- [Level Up Azure DevOps Pipelines with YAML](https://github.com/mburleigh/talks/tree/2023/techbash/Level%20Up%20Azure%20DevOps%20Pipelines%20with%20YAML)
 - [VS Code All then Things!!!](https://github.com/mburleigh/talks/tree/2023/techbash/VS%20Code%20All%20the%20Things)
 ### [Beer City Code](https://www.beercitycode.com) [Grand Rapids, MI | 8-4/5]
 - [Notebooks in VS Code](https://github.com/mburleigh/talks/tree/2023/beer-city-code/Notebooks%20in%20VS%20Code)
@@ -31,9 +31,15 @@
 - DotNetCore Testing Made Easy with ACI (Azure Container Instances)
 
 ## 2018
+### [TechBash](https://techbash.com) [Kalahari Resorts at Pocono Manor, PA | ???]
+- Intro to the Microsoft Bot Framework
+### BaltoMSDN - Azure Functions
 
 ## 2017
+### BaltoMSDN - Azure at Pandora
 
 ## 2016
+### BaltoMSDN - Bot Framework
 
 ## 2015
+### BaltoMSDN - Akka.Net
